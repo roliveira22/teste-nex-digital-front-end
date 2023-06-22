@@ -17,9 +17,13 @@ Siga as etapas abaixo para validar o teste no ambiente de front-end:
 Observações: 
 
 Rotas
+
 A seguir estão as rotas disponíveis no teste:
 
 Home: http://localhost:5173/
+
 Cadastro de Usuário: http://localhost:5173/cadastro
+
 Login: http://localhost:5173/login
-Após fazer login, você será redirecionado para a tela de produtos.
+
+Após fazer login, você será redirecionado para a tela de produtos.git
